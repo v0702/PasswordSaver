@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CustomSecurityLibrary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../CustomSecurityLibrary/out/artifacts/CustomSecurityLibrary_jar/CustomSecurityLibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
